@@ -22,6 +22,10 @@ Whether it’s data analysis, dashboards, or exploratory problem-solving, I enjo
 With a growing interest in product thinking, I focus on understanding user needs, business goals, and how data can connect the two to create real value.
 
 
+
+---
+
+
 <h2 align="center">⚒️ Languages, Frameworks & Tools</h2>
 <br/>
 
@@ -74,6 +78,10 @@ With a growing interest in product thinking, I focus on understanding user needs
        alt="Seaborn"/>
 
 </div>
+
+
+
+---
 
 
 
